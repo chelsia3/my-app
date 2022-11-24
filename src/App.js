@@ -1,9 +1,11 @@
 
 import './App.css';
-import day2 from './day2';
+import Day2 from './day2';
 function App() {
   return (
-    <Day2/> 
+    <div>
+      <Day2 /> 
+    </div>
      );
 }
 

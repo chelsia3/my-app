@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function day2() {
+export default function Day2() {
   return (
-    <div>day2</div>
+    <div>Day 2</div>
   )
 }
