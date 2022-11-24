@@ -1,13 +1,10 @@
 
 import './App.css';
-
+import day2 from './day2';
 function App() {
   return (
-    <div className="App">
-      <h1>Hello world</h1>
-      
-    </div>
-  );
+    <Day2/> 
+     );
 }
 
 export default App;
